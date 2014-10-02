@@ -1,5 +1,6 @@
 .tableRow {
 	width: 100%;
+	clear: both;
 }
 
 .tableCol {
