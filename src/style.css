@@ -1,0 +1,8 @@
+.tableRow {
+	width: 100%;
+}
+
+.tableCol {
+	border: 1px solid #F5F5F5;
+	float: left;
+}
